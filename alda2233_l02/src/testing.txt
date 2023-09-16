@@ -54,6 +54,22 @@ t05
 -------------------------------------------------------
 t06
 -------------------------------------------------------
+Mortgage principal amount ($)200000
+Number of years:20
+Yearly interest rate (%):5
+The monthly payments are:$1319.9114784333174
+
+
+Mortgage principal amount ($)500000
+Number of years:37
+Yearly interest rate (%):9
+The monthly payments are:$3891.012727989288
+
+
+Mortgage principal amount ($)1278748
+Number of years:15
+Yearly interest rate (%):7
+The monthly payments are:$11493.748536959967
 
 -------------------------------------------------------
 t07
