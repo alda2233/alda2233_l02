@@ -5,7 +5,7 @@
 Author:  Mohamed
 ID:      169072233
 Email:   alda2233@mylaurier.ca
-__updated__ = "2023-09-11"
+__updated__ = "2023-09-16"
 -------------------------------------------------------
 """
 # Imports
@@ -32,3 +32,4 @@ FREEZING = 32
 celsius = int(input("Input temperature in degrees celsius"))
 fahrenheit = int(9/5*(celsius)+32)
 print(f"Temperature (F):{fahrenheit}")
+print("THIS IS A TEST")
