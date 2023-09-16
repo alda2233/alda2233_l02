@@ -32,4 +32,4 @@ FREEZING = 32
 celsius = int(input("Input temperature in degrees celsius"))
 fahrenheit = int(9/5*(celsius)+32)
 print(f"Temperature (F):{fahrenheit}")
-print("THIS IS A TEST")
+print("THIS IS A TE")
