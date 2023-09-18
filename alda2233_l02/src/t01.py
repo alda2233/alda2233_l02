@@ -5,7 +5,7 @@
 Author:  Mohamed
 ID:      169072233
 Email:   alda2233@mylaurier.ca
-__updated__ = "2023-09-16"
+__updated__ = "2023-09-18"
 -------------------------------------------------------
 """
 # Imports
@@ -30,5 +30,7 @@ def func():
 # constant
 FREEZING = 32
 celsius = int(input("Input temperature in degrees celsius"))
+# converts a celsius temperature to fahrenheit
 fahrenheit = int(9/5*(celsius)+32)
+
 print(f"Temperature (F):{fahrenheit}")
